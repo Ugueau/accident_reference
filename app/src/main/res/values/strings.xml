@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Accident Reference</string>
+    <string name="severity">Severity</string>
+    <string name="involded">Involded</string>
+    <string name="department">Department</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="dead">Dead</string>
+    <string name="hurted">Hurted</string>
+    <string name="hospitalize">Hospitalize</string>
+    <string name="conditions">Conditions</string>
+    <string name="view_in_maps">View in Maps</string>
+    <string name="favory">Favory</string>
+    <string name="parameter">Parameter</string>
+    <string name="center_on_your_location">Center on your Location</string>
+    <string name="warning_gps">If unchecked maps will be center on the chosen department</string>
+</resources>
